@@ -1,0 +1,1 @@
+package com.latihan.springmongo.config;
